@@ -1,4 +1,4 @@
-# Barz
+FlorinLacatus Barz
 
 A Secure, Modular, Upgradeable Smart Contract Wallet enabling mass adoption of Web3
 ```bash
